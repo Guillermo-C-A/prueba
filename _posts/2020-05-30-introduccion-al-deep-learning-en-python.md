@@ -5,8 +5,8 @@ image: deep_learning.png
 tags:
 - python
 - keras
-- turorial
 - deep_learning
+- tutorial
 ---
 
 # DEEP LEARNING CRASH COURSE CON KERAS Y TENSORFLOW

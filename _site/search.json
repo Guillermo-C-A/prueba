@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Crear un blog con jekyll y github pages",
+      "category" : "",
+      "tags"     : "tutorial, jekyll, github, and blog",
+      "url"      : "/prueba/crear-un-blog-con-jekyll-y-github/",
+      "date"     : "2020-12-14 00:00:00 +0100"
+    } ,
+  
+    {
       "title"    : "¡Nuevo Blog de Import Coffee en desarrollo!",
       "category" : "",
       "tags"     : "Actualización",
@@ -11,7 +19,7 @@
     {
       "title"    : "Tutorial de deep learning en Python",
       "category" : "",
-      "tags"     : "python, keras, turorial, and deep_learning",
+      "tags"     : "python, keras, deep_learning, and tutorial",
       "url"      : "/prueba/introduccion-al-deep-learning-en-python/",
       "date"     : "2020-05-30 00:00:00 +0200"
     } 
