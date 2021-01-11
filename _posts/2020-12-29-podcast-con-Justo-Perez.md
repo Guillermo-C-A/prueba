@@ -32,3 +32,7 @@ Estos son algunos de los temas que tratamos en el podcast con nuestro invitado:
 
 ### En spotify
 <a href="https://open.spotify.com/episode/3nqUrmq2Zdja1cYwDIB5zU?si=evzxwpT2S5OXvExGk7gb-w">Escuchar en Spotify</a>
+### En google podcast
+<a href="https://podcasts.google.com/feed/aHR0cHM6Ly9tZWRpYS5yc3MuY29tL2ltcG9ydGNvZmZlZS9mZWVkLnhtbA/episode/NDhiNGRkZDYtZDdjNy03YzRlLTQ0MTQtZGMwZGM4ZjI1MTJi?sa=X&ved=0CA0QkfYCahcKEwjgkObqqpTuAhUAAAAAHQAAAAAQAQ">Escuchar en Google podcast</a>
+### En Youtube
+<iframe src="https://www.youtube.com/embed/B8s8fGfD0lY"></iframe>
